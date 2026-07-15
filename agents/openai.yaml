@@ -1,0 +1,4 @@
+interface:
+  display_name: "PIPL Event Privacy Notice"
+  short_description: "Draft China PIPL notices for event forms"
+  default_prompt: "Use $pipl-event-privacy-notice to draft a concise China PIPL personal information notice for an event registration or project application form."
